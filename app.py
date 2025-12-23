@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # --- 1. SETTINGS & PASSWORD ---
-PASSWORD = "TREASURE123"  # <--- Change this to your team's password
+PASSWORD = "poshcheddar"  # <--- Change this to your team's password
 
 st.set_page_config(page_title="Whippendell Secret Finder", layout="wide")
 
